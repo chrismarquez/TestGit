@@ -1,0 +1,60 @@
+p {
+	text-align: left;
+	margin-top: 10px;
+	margin-right:30px;
+	margin-left:30px;
+}
+p:first-child{
+	margin-top: 40px;
+}
+
+h2 {
+	font-family: "IM Fell English", Arial;
+	padding-right: 100px;
+	padding-left: 100px;
+	background-color: #26E82F;
+	text-align: center;
+}
+
+table {
+	border: 1px solid black;
+	margin-top: 20px;
+	background-color: #33B1E8;
+}
+td {
+	text-align: center;
+	padding: 10px;
+}
+
+th {
+	font-family: Arial;
+	font-size: 20px;
+	color: #FFCD1D;
+}
+.tTitle {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "IM Fell English", Arial;
+	padding: 0px;
+	text-align: center;
+}
+.tMember {
+	font-family: calibri;
+	font-size: 18px;
+}
+span {
+	font-weight: bold;
+	font-size: 18px;
+}
+a {
+	text-decoration: none;
+	color: blue;
+}
+.Lol {
+	background-color: #AAAAFF;
+}
+/*div {
+	width: 720px;
+	position: relative;
+	left: 100px;
+}*/
